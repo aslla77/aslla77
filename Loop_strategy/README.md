@@ -1,9 +1,9 @@
-#Experiment with Python
+# Experiment with Python
 
-##Itroduces:
+## Itroduces:
 Youtube: https://www.youtube.com/watch?v=PE4vLbyOgw0
 
-##References:
+## References:
 Original paper: Gál, A., & Miltersen, P.B. (2003). The Cell Probe Complexity of Succinct Data Structures. BRICS, Department of Computer Science, University of Aarhus. All rights reserved. – https://ve42.co/GalMiltersen
 Winkler, P. (2006). Seven Puzzles You Think You Must Not Have Heard Correctly. – https://ve42.co/Winkler2006
 The 100 Prisoners Problem – https://ve42.co/100PWiki 
