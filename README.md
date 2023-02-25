@@ -11,7 +11,9 @@
   
 ## [Practice - python](https://github.com/aslla77/Practice-python)
   A few modules and machine learning exercises
+  
   modules: pandas , numpy
+  
   ML: tensorflow, ~pytorch(not yet)~
   
 ## [Practice - julia](https://github.com/aslla77/Practice-julia)
