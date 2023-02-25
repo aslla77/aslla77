@@ -10,6 +10,7 @@
   opencv related toy project
   
 ## [Practice - python](https://github.com/aslla77/Practice-python)
+  language python
   A few modules and machine learning exercises
   
   modules: pandas , numpy
@@ -17,5 +18,5 @@
   ML: tensorflow, ~pytorch(not yet)~
   
 ## [Practice - julia](https://github.com/aslla77/Practice-julia)
-  
+  language [julia](https://juliakorea.github.io/ko/latest/)
 ## aslla77.github.io
