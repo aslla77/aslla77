@@ -5,6 +5,9 @@
   
 ## [Eco-evo](https://github.com/aslla77/Eco-evo)
   about Eco-evolutionary dynamics
+   
+## [Vibe coding](https://github.com/aslla77/Vibe_Coding_test)
+  about Vibe coding
   
 ## [opencv](https://github.com/aslla77/opencv)
   opencv related toy project
