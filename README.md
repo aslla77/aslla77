@@ -46,14 +46,3 @@ Claude Code · Codex · Cursor 등 Agent Skills 클라이언트에서 동작하�
 | 저장소 | 내용 |
 |---|---|
 | [**100-projects**](https://github.com/aslla77/100-projects) | 프로젝트 100개를 목표로 만드는 과정의 개발 일지. 무엇을 왜 만들었고, 무엇을 접었고, 무엇을 배웠는지 |
-
----
-
-## 기술
-
-**앱** Flutter · Swift/SwiftUI (WidgetKit · ActivityKit · watchOS) · Kotlin/Jetpack Compose · StoreKit · Google Play Billing · RevenueCat
-**LLM·자동화** Claude Code (Agent Skills, 서브에이전트 오케스트레이션) · Gemini API · App Store Connect API · Google Play Developer API
-**언어·분석** Python (NumPy, pandas, SciPy, Matplotlib, NetworkX) · SQL · Julia · R
-**통계·모델링** 시계열 분석 · 파워 스펙트럼 · 순열검정 · 시차상관 · IQR/정규분포 이상치 처리 · Monte Carlo
-**데이터 수집** Selenium · BeautifulSoup · 공공데이터 API · REST API 연동
-**영상·웹·인프라** Remotion · FFmpeg · Cloudflare Pages Functions · AWS Lambda · Supabase · Linux · Git
